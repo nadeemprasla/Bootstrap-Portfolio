@@ -1,0 +1,25 @@
+.navbar-brand{
+    font-size: 1.6rem;
+}
+.navitemright{
+    position: fixed;
+    right: 20px;
+
+}
+.aboutme{
+padding-top: 20px;;
+}
+
+
+
+
+
+
+
+.row
+{
+    border: 1px solid black;}
+
+.col{
+    border:1px solid black
+}
