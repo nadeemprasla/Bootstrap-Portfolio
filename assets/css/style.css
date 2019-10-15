@@ -4,11 +4,12 @@ body{
 .navbar-brand{
     font-size: 1.6rem;
 }
-.navitemright{
-    position: fixed;
-    right: 20px;
-
+.nav-link, .nav-item{
+    right: 0;
+    float: right;
 }
+
+
 .bkgroundcolor{
     background-color: lightgray;
     margin-top: 30px;
@@ -18,8 +19,6 @@ body{
 .aboutme{
     border-bottom: 1px solid gray;
 }
-
-
 
 .footerbar {
     padding-top: 0.5rem;
