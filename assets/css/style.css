@@ -13,7 +13,7 @@ body{
 .bkgroundcolor{
     background-color: lightgray;
     margin-top: 30px;
-    width: 50%;
+    /* width: 50%; */
     padding: 0px 20px 30px 20px;
 }
 .aboutme{
